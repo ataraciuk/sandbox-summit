@@ -6,4 +6,5 @@ body {
 
 h1 {
 	color: #00aa00;
+	  text-shadow: #00aa00 1px 1px 1px;
 }
